@@ -2,3 +2,4 @@ ultralytics
 pandas
 labelImg
 notebook
+opencv-python
