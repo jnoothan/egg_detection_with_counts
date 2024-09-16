@@ -20,4 +20,4 @@ nvcc --version
 
 # Train the computer vision model
 
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
