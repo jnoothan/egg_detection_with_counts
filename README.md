@@ -10,10 +10,6 @@ conda activate egg_detection
 
 pip install -r requirements.txt
 
-# Install Cuda and CuDNN if your system has Nvidia GPU, to use gpu for training
-
-Download and install both from Nvidia website
-
 # Check cuda version
 
 nvcc --version
@@ -21,3 +17,7 @@ nvcc --version
 # Train the computer vision model
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# Trained model-runs are stored in the runs folder
+
+C:\Users\user_name\runs\detect\train19
