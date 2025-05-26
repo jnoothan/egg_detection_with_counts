@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/85d22b1f-8e43-4ace-be38-52dfd67feedc)
+
+
 # Create python 3.9 environment if using conda
 
 conda create --name egg_detection python=3.9
@@ -21,3 +24,4 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 # Trained model-runs are stored in the runs folder
 
 C:\Users\user_name\runs\detect\train19
+
